@@ -1,5 +1,5 @@
 # Day-Zero-Diagnostics
-A Desktop App built using python that was intended to be used in the University Medicare Center.
+A Desktop App built using Python that was intended to be used in the University Medicare Center.
 It has the has the following modes:
 
 ## Doctor Mode
