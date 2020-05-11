@@ -15,5 +15,6 @@ It has the has the following modes:
 * Gives out general information regarding the followings:
    * Medicines (its usage, dosage, current mrp, manufacturer, etc.)
    * Tests (all tests, quantity, pathology lab avaibility, etc.)
+   * Diseases (about, preferred medications, etc.)
    * Foods (details, calorie intakes)
    * Exercises (details, targeted body part, calorie burns, etc)
