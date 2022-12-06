@@ -18,3 +18,10 @@ It has the has the following two modes:
    * Diseases (about, preferred medications, etc.)
    * Foods (details, calorie intakes)
    * Exercises (details, targeted body part, calorie burns, etc)
+
+
+## Contributors
+* [Priyam Sahoo](https://github.com/priyamsahoo)
+* [Ritwik Badola](https://github.com/ritwikbadola)
+* [Agnibha Chatterjee](https://github.com/agnibha-chatterjee)
+* [Akhil Surendran](https://github.com/akhillllldev)
